@@ -1,4 +1,3 @@
-
 📝 App de Metas
 Seja bem-vindo ao App de Metas, uma aplicação simples e eficiente para gerenciar suas metas diárias e semanais! Quer organizar sua rotina e acompanhar o progresso das suas tarefas? Este app é perfeito para isso! 🎯
 
@@ -21,7 +20,7 @@ Excluir metas: Sentiu que a meta não faz mais sentido? Sem problemas, é só de
 Clone este repositório:
 bash
 Copiar código
-git clone https://github.com/seu-usuario/app-de-metas.git
+git clone https://github.com/glauciocavalcanti/app-metas.git
 Instale as dependências:
 bash
 Copiar código
@@ -50,7 +49,7 @@ Termux (Android): Um emulador de terminal disponível na Play Store. Com ele, vo
 bash
 Copiar código
 pkg install nodejs
-git clone https://github.com/seu-usuario/app-de-metas.git
+git clone https://github.com/glauciocavalcanti/app-metas.git
 cd app-de-metas
 npm install
 node app.js
