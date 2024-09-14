@@ -1,7 +1,4 @@
 
-Memória atualizada
-Aqui está um exemplo de um arquivo README.md para o seu projeto de metas:
-
 📝 App de Metas
 Seja bem-vindo ao App de Metas, uma aplicação simples e eficiente para gerenciar suas metas diárias e semanais! Quer organizar sua rotina e acompanhar o progresso das suas tarefas? Este app é perfeito para isso! 🎯
 
