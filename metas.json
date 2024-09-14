@@ -1,0 +1,23 @@
+[
+  {
+    "value": "Jogar Vídeogame",
+    "checked": false,
+    "prazo": 1,
+    "dataCriacao": "2024-09-14T03:05:30.203Z",
+    "dataConclusao": null
+  },
+  {
+    "value": "Estudar",
+    "checked": false,
+    "prazo": 1,
+    "dataCriacao": "2024-09-14T03:05:39.943Z",
+    "dataConclusao": null
+  },
+  {
+    "value": "Codar",
+    "checked": true,
+    "prazo": 7,
+    "dataCriacao": "2024-09-14T03:07:58.244Z",
+    "dataConclusao": "2024-09-14T03:08:19.519Z"
+  }
+]
