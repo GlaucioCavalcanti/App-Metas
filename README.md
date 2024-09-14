@@ -1,5 +1,5 @@
-📝 App de Metas
-Seja bem-vindo ao App de Metas, uma aplicação simples e eficiente para gerenciar suas metas diárias e semanais! Quer organizar sua rotina e acompanhar o progresso das suas tarefas? Este app é perfeito para isso! 🎯
+<h1>📝 App de Metas</h1>
+<p>Seja bem-vindo ao App de Metas, uma aplicação simples e eficiente para gerenciar suas metas diárias e semanais! Quer organizar sua rotina e acompanhar o progresso das suas tarefas? Este app é perfeito para isso! 🎯</p>
 
 📋 O que este app faz?
 Este aplicativo permite que você:
@@ -42,7 +42,7 @@ Relatório de desempenho das metas.
 Este projeto é open-source e está sob a licença MIT. Sinta-se livre para contribuir!
 
 
-Algumas opções para rodar o App no celular:
+<h2>Algumas opções para rodar o App no celular:</h2>
 Usar um terminal no celular:
 
 Termux (Android): Um emulador de terminal disponível na Play Store. Com ele, você pode instalar o Node.js no Android e rodar a aplicação diretamente. Basta seguir os passos:
